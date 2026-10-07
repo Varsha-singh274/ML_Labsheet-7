@@ -1,0 +1,3 @@
+Algorithm,Silhouette Score,Davies-Bouldin Index,Calinski-Harabasz Index
+K-Means,0.4538238690338791,0.7552387325713482,212.9281548386742
+Agglomerative (Hierarchical),0.44841455327892105,0.7654203388615806,205.2465621074755
